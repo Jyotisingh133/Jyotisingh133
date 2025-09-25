@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="400" src="<img width="259" height="194" alt="jyoti" src="https://github.com/user-attachments/assets/6ceb2fb8-7c69-4cce-97d1-e90717182301" />
+<img width="259" height="194" alt="jyoti" src="https://github.com/user-attachments/assets/6ceb2fb8-7c69-4cce-97d1-e90717182301" />
 "Hi 👋, I'm jyoti kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
