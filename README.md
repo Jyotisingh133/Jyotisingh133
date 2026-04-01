@@ -82,19 +82,4 @@
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
-## 🧰 Tech Toolbox
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,mysql,python"/>
-</p>
-## 📊 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotisingh133&theme=tokyo-night&area=true"/>
-</p>
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
